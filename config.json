@@ -1,0 +1,18 @@
+{
+  "APP_NAME":"Crime_Data_Analytics",
+  "VERSION":"0.1.0",
+  "ENV_REMARK":"TBD",
+  "ENV_OPTION":"1-UAT; 9-PROD",
+  "ENV":"1",
+  "PATHS":{
+    "SOURCE_CODE":"src",
+    "DATA":"data",
+    "DATA_INPUT":"input",
+    "DATA_OUTPUT":"output",
+    "LOG":"log",
+    "TESTING":"test"
+  },
+  "INPUT":{
+    "CRIME_DATA":"sample_crime_data.csv"
+  }
+}
