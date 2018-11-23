@@ -7,7 +7,7 @@ Nil.
 
 
 # Input Data
-We will using sample data within the *data/* directory.
+We will be using sample data within the *data/* directory.
 
 
 # How to run the script
@@ -17,7 +17,7 @@ $ python crime_rate.py
 ```
 
 # Expected Result
-Total 4 graphs will show after executed the script stated above.
+Total 4 graphs will show after executing the script stated above. Sample output can be referred in the *data/output/* directory.
 
 
 # Setting Configuration
